@@ -1,0 +1,6 @@
+[LOG] System started
+[WARN] Low memory
+[ERROR] Disk failure
+[LOG] System started
+[WARN] Low memory
+[ERROR] Disk failure
